@@ -9,7 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+/** <#注释#>*/
+@property (nonatomic, strong) class *name;
 
 @end
 
